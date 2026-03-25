@@ -6,6 +6,20 @@ It also now includes an MPC program builder, `build_mpc_programs.py`, that consu
 
 It also now includes a verification tool, `verify_rx1200_organized_kits.py`, that checks the generated kits against the source presets and the manifest contract.
 
+## Repository scope
+
+The published Git repository intentionally keeps the source collections, staging scripts, builder code, and supporting templates, but excludes large generated or bundled assets that can be recreated locally.
+
+Ignored paths include:
+
+- root `.xpn` export packages
+- `RX-1200 Expansion/` generated builder output
+- `_Organized_Kits/` generated staging output
+- `reference_docs/` large reference extracts
+- `tools/mpc.app/` bundled application binaries
+
+These exclusions keep the repository publishable on GitHub while preserving the files required to rebuild the generated artifacts locally.
+
 ## What the script does
 
 For each `.rx1200` preset in these source folders:

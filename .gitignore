@@ -1,1 +1,11 @@
 .DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.xpn
+RX-1200 Expansion/
+RX-1200 Expansion_builder_report.json
+_Organized_Kits/
+reference_docs/
+tools/mpc.app/
+rx1200_expansion_file_tree_exhaustive.tmp

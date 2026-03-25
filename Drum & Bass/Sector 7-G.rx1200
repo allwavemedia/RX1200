@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<com.inphonik.RX1200 name="Sector 7-G" author="William Lamy / Inphonik" comment="D&amp;B as a Sci-Fi anthem. Screaming analog synths and massive atmospheric soundscapes built for the future.">
+  <PARAM id="pitch_a1" value="0.5109999179840088"/>
+  <PARAM id="pitch_a2" value="0.6370000839233398"/>
+  <PARAM id="pitch_a3" value="0.5"/>
+  <PARAM id="pitch_a4" value="0.5"/>
+  <PARAM id="pitch_a5" value="0.2590000629425049"/>
+  <PARAM id="pitch_a6" value="0.24399995803833008"/>
+  <PARAM id="pitch_a7" value="0.25799989700317383"/>
+  <PARAM id="pitch_a8" value="0.24399995803833008"/>
+  <PARAM id="pitch_b1" value="0.9130001068115234"/>
+  <PARAM id="pitch_b2" value="0.8689999580383301"/>
+  <PARAM id="pitch_b3" value="0.8110001087188721"/>
+  <PARAM id="pitch_b4" value="0.7660000324249268"/>
+  <PARAM id="pitch_b5" value="0.6809999942779541"/>
+  <PARAM id="pitch_b6" value="1.0"/>
+  <PARAM id="pitch_b7" value="0.4719998836517334"/>
+  <PARAM id="pitch_b8" value="0.5"/>
+  <PARAM id="pitch_c1" value="0.812999963760376"/>
+  <PARAM id="pitch_c2" value="0.8059999942779541"/>
+  <PARAM id="pitch_c3" value="0.042999982833862305"/>
+  <PARAM id="pitch_c4" value="0.042999982833862305"/>
+  <PARAM id="pitch_c5" value="0.042999982833862305"/>
+  <PARAM id="pitch_c6" value="0.042999982833862305"/>
+  <PARAM id="pitch_c7" value="0.042999982833862305"/>
+  <PARAM id="pitch_c8" value="0.042999982833862305"/>
+  <PARAM id="pitch_d1" value="0.5"/>
+  <PARAM id="pitch_d2" value="0.5"/>
+  <PARAM id="pitch_d3" value="0.23799991607666016"/>
+  <PARAM id="pitch_d4" value="0.24499988555908203"/>
+  <PARAM id="pitch_d5" value="0.24499988555908203"/>
+  <PARAM id="pitch_d6" value="0.24499988555908203"/>
+  <PARAM id="pitch_d7" value="0.24499988555908203"/>
+  <PARAM id="pitch_d8" value="0.06399989128112793"/>
+  <PARAM id="decay_a1" value="1.0"/>
+  <PARAM id="decay_a2" value="1.0"/>
+  <PARAM id="decay_a3" value="1.0"/>
+  <PARAM id="decay_a4" value="1.0"/>
+  <PARAM id="decay_a5" value="0.0"/>
+  <PARAM id="decay_a6" value="0.0"/>
+  <PARAM id="decay_a7" value="0.0"/>
+  <PARAM id="decay_a8" value="0.0"/>
+  <PARAM id="decay_b1" value="0.40599989891052246"/>
+  <PARAM id="decay_b2" value="0.40599989891052246"/>
+  <PARAM id="decay_b3" value="0.40599989891052246"/>
+  <PARAM id="decay_b4" value="0.40599989891052246"/>
+  <PARAM id="decay_b5" value="0.40599989891052246"/>
+  <PARAM id="decay_b6" value="0.40599989891052246"/>
+  <PARAM id="decay_b7" value="1.0"/>
+  <PARAM id="decay_b8" value="1.0"/>
+  <PARAM id="decay_c1" value="0.0"/>
+  <PARAM id="decay_c2" value="0.0"/>
+  <PARAM id="decay_c3" value="1.0"/>
+  <PARAM id="decay_c4" value="1.0"/>
+  <PARAM id="decay_c5" value="1.0"/>
+  <PARAM id="decay_c6" value="1.0"/>
+  <PARAM id="decay_c7" value="1.0"/>
+  <PARAM id="decay_c8" value="1.0"/>
+  <PARAM id="decay_d1" value="1.0"/>
+  <PARAM id="decay_d2" value="1.0"/>
+  <PARAM id="decay_d3" value="0.0"/>
+  <PARAM id="decay_d4" value="0.0"/>
+  <PARAM id="decay_d5" value="0.0"/>
+  <PARAM id="decay_d6" value="0.0"/>
+  <PARAM id="decay_d7" value="0.0"/>
+  <PARAM id="decay_d8" value="1.0"/>
+  <PARAM id="level_a1" value="0.872999906539917"/>
+  <PARAM id="level_a2" value="0.9219999313354492"/>
+  <PARAM id="level_a3" value="0.7569999694824219"/>
+  <PARAM id="level_a4" value="1.0"/>
+  <PARAM id="level_a5" value="1.0"/>
+  <PARAM id="level_a6" value="1.0"/>
+  <PARAM id="level_a7" value="1.0"/>
+  <PARAM id="level_a8" value="1.0"/>
+  <PARAM id="level_b1" value="0.7269999980926514"/>
+  <PARAM id="level_b2" value="0.7269999980926514"/>
+  <PARAM id="level_b3" value="0.7269999980926514"/>
+  <PARAM id="level_b4" value="0.7269999980926514"/>
+  <PARAM id="level_b5" value="0.7269999980926514"/>
+  <PARAM id="level_b6" value="0.7269999980926514"/>
+  <PARAM id="level_b7" value="1.0"/>
+  <PARAM id="level_b8" value="0.8849999904632568"/>
+  <PARAM id="level_c1" value="0.6710000038146973"/>
+  <PARAM id="level_c2" value="0.5899999141693115"/>
+  <PARAM id="level_c3" value="0.7560000419616699"/>
+  <PARAM id="level_c4" value="0.7560000419616699"/>
+  <PARAM id="level_c5" value="0.7560000419616699"/>
+  <PARAM id="level_c6" value="0.7560000419616699"/>
+  <PARAM id="level_c7" value="0.7560000419616699"/>
+  <PARAM id="level_c8" value="0.7560000419616699"/>
+  <PARAM id="level_d1" value="0.7339999675750732"/>
+  <PARAM id="level_d2" value="0.806999921798706"/>
+  <PARAM id="level_d3" value="0.5409998893737793"/>
+  <PARAM id="level_d4" value="0.6489999294281006"/>
+  <PARAM id="level_d5" value="0.5390000343322754"/>
+  <PARAM id="level_d6" value="0.5329999923706055"/>
+  <PARAM id="level_d7" value="0.6480000019073486"/>
+  <PARAM id="level_d8" value="0.37400007247924805"/>
+  <PARAM id="pan_a1" value="0.4609999656677246"/>
+  <PARAM id="pan_a2" value="0.4414999485015869"/>
+  <PARAM id="pan_a3" value="0.4061000347137451"/>
+  <PARAM id="pan_a4" value="0.5"/>
+  <PARAM id="pan_a5" value="0.5"/>
+  <PARAM id="pan_a6" value="0.5"/>
+  <PARAM id="pan_a7" value="0.5"/>
+  <PARAM id="pan_a8" value="0.5"/>
+  <PARAM id="pan_b1" value="0.5857999324798584"/>
+  <PARAM id="pan_b2" value="0.5857999324798584"/>
+  <PARAM id="pan_b3" value="0.5857999324798584"/>
+  <PARAM id="pan_b4" value="0.5857999324798584"/>
+  <PARAM id="pan_b5" value="0.5857999324798584"/>
+  <PARAM id="pan_b6" value="0.5857999324798584"/>
+  <PARAM id="pan_b7" value="0.5"/>
+  <PARAM id="pan_b8" value="0.5"/>
+  <PARAM id="pan_c1" value="0.765700101852417"/>
+  <PARAM id="pan_c2" value="0.7186000347137451"/>
+  <PARAM id="pan_c3" value="0.5"/>
+  <PARAM id="pan_c4" value="0.5"/>
+  <PARAM id="pan_c5" value="0.5"/>
+  <PARAM id="pan_c6" value="0.5"/>
+  <PARAM id="pan_c7" value="0.5"/>
+  <PARAM id="pan_c8" value="0.5"/>
+  <PARAM id="pan_d1" value="0.5"/>
+  <PARAM id="pan_d2" value="0.5"/>
+  <PARAM id="pan_d3" value="0.5"/>
+  <PARAM id="pan_d4" value="0.5"/>
+  <PARAM id="pan_d5" value="0.5"/>
+  <PARAM id="pan_d6" value="0.5"/>
+  <PARAM id="pan_d7" value="0.5"/>
+  <PARAM id="pan_d8" value="0.5"/>
+  <PARAM id="pad_a1" value="0.0"/>
+  <PARAM id="pad_a2" value="0.0"/>
+  <PARAM id="pad_a3" value="0.0"/>
+  <PARAM id="pad_a4" value="0.0"/>
+  <PARAM id="pad_a5" value="0.0"/>
+  <PARAM id="pad_a6" value="0.0"/>
+  <PARAM id="pad_a7" value="0.0"/>
+  <PARAM id="pad_a8" value="0.0"/>
+  <PARAM id="pad_b1" value="0.0"/>
+  <PARAM id="pad_b2" value="0.0"/>
+  <PARAM id="pad_b3" value="0.0"/>
+  <PARAM id="pad_b4" value="0.0"/>
+  <PARAM id="pad_b5" value="0.0"/>
+  <PARAM id="pad_b6" value="0.0"/>
+  <PARAM id="pad_b7" value="0.0"/>
+  <PARAM id="pad_b8" value="0.0"/>
+  <PARAM id="pad_c1" value="0.0"/>
+  <PARAM id="pad_c2" value="0.0"/>
+  <PARAM id="pad_c3" value="0.0"/>
+  <PARAM id="pad_c4" value="0.0"/>
+  <PARAM id="pad_c5" value="0.0"/>
+  <PARAM id="pad_c6" value="0.0"/>
+  <PARAM id="pad_c7" value="0.0"/>
+  <PARAM id="pad_c8" value="0.0"/>
+  <PARAM id="pad_d1" value="0.0"/>
+  <PARAM id="pad_d2" value="0.0"/>
+  <PARAM id="pad_d3" value="0.0"/>
+  <PARAM id="pad_d4" value="0.0"/>
+  <PARAM id="pad_d5" value="0.0"/>
+  <PARAM id="pad_d6" value="0.0"/>
+  <PARAM id="pad_d7" value="0.0"/>
+  <PARAM id="pad_d8" value="0.0"/>
+  <PARAM id="output_a1" value="0"/>
+  <PARAM id="output_a2" value="1"/>
+  <PARAM id="output_a3" value="2"/>
+  <PARAM id="output_a4" value="2"/>
+  <PARAM id="output_a5" value="6"/>
+  <PARAM id="output_a6" value="6"/>
+  <PARAM id="output_a7" value="6"/>
+  <PARAM id="output_a8" value="6"/>
+  <PARAM id="output_b1" value="3"/>
+  <PARAM id="output_b2" value="3"/>
+  <PARAM id="output_b3" value="3"/>
+  <PARAM id="output_b4" value="3"/>
+  <PARAM id="output_b5" value="3"/>
+  <PARAM id="output_b6" value="3"/>
+  <PARAM id="output_b7" value="3"/>
+  <PARAM id="output_b8" value="3"/>
+  <PARAM id="output_c1" value="5"/>
+  <PARAM id="output_c2" value="5"/>
+  <PARAM id="output_c3" value="4"/>
+  <PARAM id="output_c4" value="4"/>
+  <PARAM id="output_c5" value="4"/>
+  <PARAM id="output_c6" value="4"/>
+  <PARAM id="output_c7" value="4"/>
+  <PARAM id="output_c8" value="4"/>
+  <PARAM id="output_d1" value="7"/>
+  <PARAM id="output_d2" value="6"/>
+  <PARAM id="output_d3" value="6"/>
+  <PARAM id="output_d4" value="6"/>
+  <PARAM id="output_d5" value="6"/>
+  <PARAM id="output_d6" value="6"/>
+  <PARAM id="output_d7" value="6"/>
+  <PARAM id="output_d8" value="4"/>
+  <PARAM id="filter_a1" value="0"/>
+  <PARAM id="filter_a2" value="0"/>
+  <PARAM id="filter_a3" value="0"/>
+  <PARAM id="filter_a4" value="0"/>
+  <PARAM id="filter_a5" value="0"/>
+  <PARAM id="filter_a6" value="0"/>
+  <PARAM id="filter_a7" value="0"/>
+  <PARAM id="filter_a8" value="0"/>
+  <PARAM id="filter_b1" value="1"/>
+  <PARAM id="filter_b2" value="1"/>
+  <PARAM id="filter_b3" value="1"/>
+  <PARAM id="filter_b4" value="1"/>
+  <PARAM id="filter_b5" value="1"/>
+  <PARAM id="filter_b6" value="1"/>
+  <PARAM id="filter_b7" value="3"/>
+  <PARAM id="filter_b8" value="0"/>
+  <PARAM id="filter_c1" value="0"/>
+  <PARAM id="filter_c2" value="0"/>
+  <PARAM id="filter_c3" value="0"/>
+  <PARAM id="filter_c4" value="0"/>
+  <PARAM id="filter_c5" value="0"/>
+  <PARAM id="filter_c6" value="0"/>
+  <PARAM id="filter_c7" value="0"/>
+  <PARAM id="filter_c8" value="0"/>
+  <PARAM id="filter_d1" value="0"/>
+  <PARAM id="filter_d2" value="0"/>
+  <PARAM id="filter_d3" value="0"/>
+  <PARAM id="filter_d4" value="0"/>
+  <PARAM id="filter_d5" value="0"/>
+  <PARAM id="filter_d6" value="0"/>
+  <PARAM id="filter_d7" value="0"/>
+  <PARAM id="filter_d8" value="0"/>
+  <PARAM id="finetune_a1" value="0.5"/>
+  <PARAM id="finetune_a2" value="0.5"/>
+  <PARAM id="finetune_a3" value="0.5"/>
+  <PARAM id="finetune_a4" value="0.5"/>
+  <PARAM id="finetune_a5" value="0.5"/>
+  <PARAM id="finetune_a6" value="0.5"/>
+  <PARAM id="finetune_a7" value="0.5"/>
+  <PARAM id="finetune_a8" value="0.5"/>
+  <PARAM id="finetune_b1" value="0.5"/>
+  <PARAM id="finetune_b2" value="0.5"/>
+  <PARAM id="finetune_b3" value="0.5"/>
+  <PARAM id="finetune_b4" value="0.5"/>
+  <PARAM id="finetune_b5" value="0.5"/>
+  <PARAM id="finetune_b6" value="0.5"/>
+  <PARAM id="finetune_b7" value="0.5"/>
+  <PARAM id="finetune_b8" value="0.5"/>
+  <PARAM id="finetune_c1" value="0.5"/>
+  <PARAM id="finetune_c2" value="0.5"/>
+  <PARAM id="finetune_c3" value="0.5"/>
+  <PARAM id="finetune_c4" value="0.5"/>
+  <PARAM id="finetune_c5" value="0.5"/>
+  <PARAM id="finetune_c6" value="0.5"/>
+  <PARAM id="finetune_c7" value="0.5"/>
+  <PARAM id="finetune_c8" value="0.5"/>
+  <PARAM id="finetune_d1" value="0.5"/>
+  <PARAM id="finetune_d2" value="0.5"/>
+  <PARAM id="finetune_d3" value="0.5"/>
+  <PARAM id="finetune_d4" value="0.5"/>
+  <PARAM id="finetune_d5" value="0.5"/>
+  <PARAM id="finetune_d6" value="0.5"/>
+  <PARAM id="finetune_d7" value="0.5"/>
+  <PARAM id="finetune_d8" value="0.5"/>
+  <PARAM id="gain_a1" value="0.13906240463256836"/>
+  <PARAM id="gain_a2" value="0.13906240463256836"/>
+  <PARAM id="gain_a3" value="0.13906240463256836"/>
+  <PARAM id="gain_a4" value="0.09999990463256836"/>
+  <PARAM id="gain_a5" value="0.09999990463256836"/>
+  <PARAM id="gain_a6" value="0.09999990463256836"/>
+  <PARAM id="gain_a7" value="0.09999990463256836"/>
+  <PARAM id="gain_a8" value="0.09999990463256836"/>
+  <PARAM id="gain_b1" value="0.18203115463256836"/>
+  <PARAM id="gain_b2" value="0.18203115463256836"/>
+  <PARAM id="gain_b3" value="0.18203115463256836"/>
+  <PARAM id="gain_b4" value="0.18203115463256836"/>
+  <PARAM id="gain_b5" value="0.18203115463256836"/>
+  <PARAM id="gain_b6" value="0.18203115463256836"/>
+  <PARAM id="gain_b7" value="0.09999990463256836"/>
+  <PARAM id="gain_b8" value="0.10390615463256836"/>
+  <PARAM id="gain_c1" value="0.09999990463256836"/>
+  <PARAM id="gain_c2" value="0.09999990463256836"/>
+  <PARAM id="gain_c3" value="0.23828125"/>
+  <PARAM id="gain_c4" value="0.23828125"/>
+  <PARAM id="gain_c5" value="0.23828125"/>
+  <PARAM id="gain_c6" value="0.23828125"/>
+  <PARAM id="gain_c7" value="0.23828125"/>
+  <PARAM id="gain_c8" value="0.23828125"/>
+  <PARAM id="gain_d1" value="0.11953115463256836"/>
+  <PARAM id="gain_d2" value="0.17031240463256836"/>
+  <PARAM id="gain_d3" value="0.40859365463256836"/>
+  <PARAM id="gain_d4" value="0.40859365463256836"/>
+  <PARAM id="gain_d5" value="0.40859365463256836"/>
+  <PARAM id="gain_d6" value="0.40859365463256836"/>
+  <PARAM id="gain_d7" value="0.40859365463256836"/>
+  <PARAM id="gain_d8" value="1.0"/>
+  <PARAM id="mono_a1" value="0"/>
+  <PARAM id="mono_a2" value="0"/>
+  <PARAM id="mono_a3" value="0"/>
+  <PARAM id="mono_a4" value="0"/>
+  <PARAM id="mono_a5" value="0"/>
+  <PARAM id="mono_a6" value="0"/>
+  <PARAM id="mono_a7" value="0"/>
+  <PARAM id="mono_a8" value="0"/>
+  <PARAM id="mono_b1" value="0"/>
+  <PARAM id="mono_b2" value="0"/>
+  <PARAM id="mono_b3" value="0"/>
+  <PARAM id="mono_b4" value="0"/>
+  <PARAM id="mono_b5" value="0"/>
+  <PARAM id="mono_b6" value="0"/>
+  <PARAM id="mono_b7" value="0"/>
+  <PARAM id="mono_b8" value="0"/>
+  <PARAM id="mono_c1" value="0"/>
+  <PARAM id="mono_c2" value="0"/>
+  <PARAM id="mono_c3" value="0"/>
+  <PARAM id="mono_c4" value="0"/>
+  <PARAM id="mono_c5" value="0"/>
+  <PARAM id="mono_c6" value="0"/>
+  <PARAM id="mono_c7" value="0"/>
+  <PARAM id="mono_c8" value="0"/>
+  <PARAM id="mono_d1" value="0"/>
+  <PARAM id="mono_d2" value="0"/>
+  <PARAM id="mono_d3" value="0"/>
+  <PARAM id="mono_d4" value="0"/>
+  <PARAM id="mono_d5" value="0"/>
+  <PARAM id="mono_d6" value="0"/>
+  <PARAM id="mono_d7" value="0"/>
+  <PARAM id="mono_d8" value="0"/>
+  <PARAM id="speed_a1" value="1"/>
+  <PARAM id="speed_a2" value="1"/>
+  <PARAM id="speed_a3" value="1"/>
+  <PARAM id="speed_a4" value="1"/>
+  <PARAM id="speed_a5" value="1"/>
+  <PARAM id="speed_a6" value="1"/>
+  <PARAM id="speed_a7" value="1"/>
+  <PARAM id="speed_a8" value="1"/>
+  <PARAM id="speed_b1" value="1"/>
+  <PARAM id="speed_b2" value="1"/>
+  <PARAM id="speed_b3" value="1"/>
+  <PARAM id="speed_b4" value="1"/>
+  <PARAM id="speed_b5" value="1"/>
+  <PARAM id="speed_b6" value="1"/>
+  <PARAM id="speed_b7" value="3"/>
+  <PARAM id="speed_b8" value="1"/>
+  <PARAM id="speed_c1" value="1"/>
+  <PARAM id="speed_c2" value="1"/>
+  <PARAM id="speed_c3" value="3"/>
+  <PARAM id="speed_c4" value="3"/>
+  <PARAM id="speed_c5" value="3"/>
+  <PARAM id="speed_c6" value="3"/>
+  <PARAM id="speed_c7" value="3"/>
+  <PARAM id="speed_c8" value="3"/>
+  <PARAM id="speed_d1" value="1"/>
+  <PARAM id="speed_d2" value="1"/>
+  <PARAM id="speed_d3" value="1"/>
+  <PARAM id="speed_d4" value="1"/>
+  <PARAM id="speed_d5" value="1"/>
+  <PARAM id="speed_d6" value="1"/>
+  <PARAM id="speed_d7" value="1"/>
+  <PARAM id="speed_d8" value="3"/>
+  <PARAM id="polyphony_1" value="0"/>
+  <PARAM id="polyphony_2" value="0"/>
+  <PARAM id="polyphony_3" value="0"/>
+  <PARAM id="polyphony_4" value="0"/>
+  <PARAM id="polyphony_5" value="0"/>
+  <PARAM id="polyphony_6" value="7"/>
+  <PARAM id="polyphony_7" value="7"/>
+  <PARAM id="polyphony_8" value="0"/>
+  <PARAM id="volume" value="0.6999998092651367"/>
+  <PARAM id="velocity" value="0.0"/>
+  <PARAM id="layout" value="1"/>
+  <SAMPLES>
+    <SAMPLE id="a1" reversed="false" gain="1.0" start="0" end="22330">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/1. Kicks/kick_sector.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="a2" reversed="false" gain="1.0" start="0" end="17999">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/2. Snares/snare_sector.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="a3" reversed="false" gain="1.0" start="0" end="6708">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/3. Hi-hats/hihat_cl_sector.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="a4" reversed="false" gain="1.0" start="0" end="21164">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/3. Hi-hats/hihat_op_fading.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="a5" reversed="false" gain="1.0" start="0" end="64908">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/4. Toms/tom_dnb3.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="a6" reversed="false" gain="1.0" start="0" end="69412">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/4. Toms/tom_dnb4.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="a7" reversed="false" gain="1.0" start="0" end="91700">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/4. Toms/tom_dnb5.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="a8" reversed="false" gain="1.0" start="0" end="75540">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/4. Toms/tom_dnb6.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b1" reversed="false" gain="1.0" start="0" end="70742">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_jump.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b2" reversed="false" gain="1.0" start="0" end="70742">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_jump.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b3" reversed="false" gain="1.0" start="0" end="70742">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_jump.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b4" reversed="false" gain="1.0" start="0" end="70742">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_jump.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b5" reversed="false" gain="1.0" start="0" end="70742">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_jump.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b6" reversed="false" gain="1.0" start="0" end="70742">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_jump.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b7" reversed="false" gain="1.0" start="0" end="27490">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_sector.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="b8" reversed="false" gain="1.0" start="0" end="74539">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/8. Bass/bass_acid.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c1" reversed="false" gain="1.0" start="0" end="23987">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/6. Percs/shaker_amen1.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c2" reversed="false" gain="1.0" start="0" end="24552">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/6. Percs/shaker_amen2.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c3" reversed="false" gain="1.0" start="0" end="76035">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/jungle_break11.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c4" reversed="false" gain="1.0" start="0" end="45620">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/jungle_break12.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c5" reversed="false" gain="1.0" start="0" end="68431">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/jungle_break19.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c6" reversed="false" gain="1.0" start="0" end="53224">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/jungle_break20.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c7" reversed="false" gain="1.0" start="0" end="64585">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/jungle_break21.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="c8" reversed="false" gain="1.0" start="0" end="60827">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/jungle_break22.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d1" reversed="false" gain="1.0" start="0" end="486621">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/7. FX/texture_sector.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d2" reversed="false" gain="1.0" start="0" end="185483">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/11. Others/chord_sector.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d3" reversed="false" gain="1.0" start="0" end="25479">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/highwaybreak1.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d4" reversed="false" gain="1.0" start="0" end="25430">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/highwaybreak2.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d5" reversed="false" gain="1.0" start="0" end="7111">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/highwaybreak3.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d6" reversed="false" gain="1.0" start="0" end="25399">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/highwaybreak4.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d7" reversed="false" gain="1.0" start="0" end="25478">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/highwaybreak5.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+    <SAMPLE id="d8" reversed="false" gain="1.0" start="0" end="121583">
+      <REFERENCES>
+        <REFERENCE type="productUserData" value="/Collections/Drum &amp; Bass/Samples/10. Slices/hihat_flange_garage.wav"/>
+      </REFERENCES>
+    </SAMPLE>
+  </SAMPLES>
+  <PARAM id="a1_play_range_start" value="0"/>
+  <PARAM id="a1_play_range_end" value="1"/>
+  <PARAM id="a1_loop_range_start" value="0"/>
+  <PARAM id="a1_loop_range_end" value="1"/>
+  <PARAM id="a2_play_range_start" value="0"/>
+  <PARAM id="a2_play_range_end" value="1"/>
+  <PARAM id="a2_loop_range_start" value="0"/>
+  <PARAM id="a2_loop_range_end" value="1"/>
+  <PARAM id="a3_play_range_start" value="0"/>
+  <PARAM id="a3_play_range_end" value="1"/>
+  <PARAM id="a3_loop_range_start" value="0"/>
+  <PARAM id="a3_loop_range_end" value="1"/>
+  <PARAM id="a4_play_range_start" value="0"/>
+  <PARAM id="a4_play_range_end" value="1"/>
+  <PARAM id="a4_loop_range_start" value="0"/>
+  <PARAM id="a4_loop_range_end" value="1"/>
+  <PARAM id="a5_play_range_start" value="0"/>
+  <PARAM id="a5_play_range_end" value="1"/>
+  <PARAM id="a5_loop_range_start" value="0"/>
+  <PARAM id="a5_loop_range_end" value="1"/>
+  <PARAM id="a6_play_range_start" value="0"/>
+  <PARAM id="a6_play_range_end" value="1"/>
+  <PARAM id="a6_loop_range_start" value="0"/>
+  <PARAM id="a6_loop_range_end" value="1"/>
+  <PARAM id="a7_play_range_start" value="0"/>
+  <PARAM id="a7_play_range_end" value="1"/>
+  <PARAM id="a7_loop_range_start" value="0"/>
+  <PARAM id="a7_loop_range_end" value="1"/>
+  <PARAM id="a8_play_range_start" value="0"/>
+  <PARAM id="a8_play_range_end" value="1"/>
+  <PARAM id="a8_loop_range_start" value="0"/>
+  <PARAM id="a8_loop_range_end" value="1"/>
+  <PARAM id="b1_play_range_start" value="0"/>
+  <PARAM id="b1_play_range_end" value="1"/>
+  <PARAM id="b1_loop_range_start" value="0"/>
+  <PARAM id="b1_loop_range_end" value="1"/>
+  <PARAM id="b2_play_range_start" value="0"/>
+  <PARAM id="b2_play_range_end" value="1"/>
+  <PARAM id="b2_loop_range_start" value="0"/>
+  <PARAM id="b2_loop_range_end" value="1"/>
+  <PARAM id="b3_play_range_start" value="0"/>
+  <PARAM id="b3_play_range_end" value="1"/>
+  <PARAM id="b3_loop_range_start" value="0"/>
+  <PARAM id="b3_loop_range_end" value="1"/>
+  <PARAM id="b4_play_range_start" value="0"/>
+  <PARAM id="b4_play_range_end" value="1"/>
+  <PARAM id="b4_loop_range_start" value="0"/>
+  <PARAM id="b4_loop_range_end" value="1"/>
+  <PARAM id="b5_play_range_start" value="0"/>
+  <PARAM id="b5_play_range_end" value="1"/>
+  <PARAM id="b5_loop_range_start" value="0"/>
+  <PARAM id="b5_loop_range_end" value="1"/>
+  <PARAM id="b6_play_range_start" value="0"/>
+  <PARAM id="b6_play_range_end" value="1"/>
+  <PARAM id="b6_loop_range_start" value="0"/>
+  <PARAM id="b6_loop_range_end" value="1"/>
+  <PARAM id="b7_play_range_start" value="0"/>
+  <PARAM id="b7_play_range_end" value="1"/>
+  <PARAM id="b7_loop_range_start" value="0"/>
+  <PARAM id="b7_loop_range_end" value="1"/>
+  <PARAM id="b8_play_range_start" value="0"/>
+  <PARAM id="b8_play_range_end" value="1"/>
+  <PARAM id="b8_loop_range_start" value="0"/>
+  <PARAM id="b8_loop_range_end" value="1"/>
+  <PARAM id="c1_play_range_start" value="0"/>
+  <PARAM id="c1_play_range_end" value="1"/>
+  <PARAM id="c1_loop_range_start" value="0"/>
+  <PARAM id="c1_loop_range_end" value="1"/>
+  <PARAM id="c2_play_range_start" value="0"/>
+  <PARAM id="c2_play_range_end" value="1"/>
+  <PARAM id="c2_loop_range_start" value="0"/>
+  <PARAM id="c2_loop_range_end" value="1"/>
+  <PARAM id="c3_play_range_start" value="0"/>
+  <PARAM id="c3_play_range_end" value="1"/>
+  <PARAM id="c3_loop_range_start" value="0"/>
+  <PARAM id="c3_loop_range_end" value="1"/>
+  <PARAM id="c4_play_range_start" value="0"/>
+  <PARAM id="c4_play_range_end" value="1"/>
+  <PARAM id="c4_loop_range_start" value="0"/>
+  <PARAM id="c4_loop_range_end" value="1"/>
+  <PARAM id="c5_play_range_start" value="0"/>
+  <PARAM id="c5_play_range_end" value="1"/>
+  <PARAM id="c5_loop_range_start" value="0"/>
+  <PARAM id="c5_loop_range_end" value="1"/>
+  <PARAM id="c6_play_range_start" value="0"/>
+  <PARAM id="c6_play_range_end" value="1"/>
+  <PARAM id="c6_loop_range_start" value="0"/>
+  <PARAM id="c6_loop_range_end" value="1"/>
+  <PARAM id="c7_play_range_start" value="0"/>
+  <PARAM id="c7_play_range_end" value="1"/>
+  <PARAM id="c7_loop_range_start" value="0"/>
+  <PARAM id="c7_loop_range_end" value="1"/>
+  <PARAM id="c8_play_range_start" value="0"/>
+  <PARAM id="c8_play_range_end" value="1"/>
+  <PARAM id="c8_loop_range_start" value="0"/>
+  <PARAM id="c8_loop_range_end" value="1"/>
+  <PARAM id="d1_play_range_start" value="0"/>
+  <PARAM id="d1_play_range_end" value="1"/>
+  <PARAM id="d1_loop_range_start" value="0"/>
+  <PARAM id="d1_loop_range_end" value="1"/>
+  <PARAM id="d2_play_range_start" value="0"/>
+  <PARAM id="d2_play_range_end" value="1"/>
+  <PARAM id="d2_loop_range_start" value="0"/>
+  <PARAM id="d2_loop_range_end" value="1"/>
+  <PARAM id="d3_play_range_start" value="0"/>
+  <PARAM id="d3_play_range_end" value="1"/>
+  <PARAM id="d3_loop_range_start" value="0"/>
+  <PARAM id="d3_loop_range_end" value="1"/>
+  <PARAM id="d4_play_range_start" value="0"/>
+  <PARAM id="d4_play_range_end" value="1"/>
+  <PARAM id="d4_loop_range_start" value="0"/>
+  <PARAM id="d4_loop_range_end" value="1"/>
+  <PARAM id="d5_play_range_start" value="0"/>
+  <PARAM id="d5_play_range_end" value="1"/>
+  <PARAM id="d5_loop_range_start" value="0"/>
+  <PARAM id="d5_loop_range_end" value="1"/>
+  <PARAM id="d6_play_range_start" value="0"/>
+  <PARAM id="d6_play_range_end" value="1"/>
+  <PARAM id="d6_loop_range_start" value="0"/>
+  <PARAM id="d6_loop_range_end" value="1"/>
+  <PARAM id="d7_play_range_start" value="0"/>
+  <PARAM id="d7_play_range_end" value="1"/>
+  <PARAM id="d7_loop_range_start" value="0"/>
+  <PARAM id="d7_loop_range_end" value="1"/>
+  <PARAM id="d8_play_range_start" value="0"/>
+  <PARAM id="d8_play_range_end" value="1"/>
+  <PARAM id="d8_loop_range_start" value="0"/>
+  <PARAM id="d8_loop_range_end" value="1"/>
+  <GUI>
+    <PARAM id="color_d8" value="1.0"/>
+    <PARAM id="color_d7" value="0.1428571492433548"/>
+    <PARAM id="color_d6" value="0.0"/>
+    <PARAM id="color_d5" value="0.2857142984867096"/>
+    <PARAM id="color_d4" value="0.1428571492433548"/>
+    <PARAM id="color_d3" value="0.0"/>
+    <PARAM id="color_d2" value="0.8571428656578064"/>
+    <PARAM id="color_d1" value="0.8571428656578064"/>
+    <PARAM id="color_c8" value="0.7142857313156128"/>
+    <PARAM id="color_c7" value="0.7142857313156128"/>
+    <PARAM id="color_c6" value="0.7142857313156128"/>
+    <PARAM id="color_c5" value="0.7142857313156128"/>
+    <PARAM id="color_c4" value="0.7142857313156128"/>
+    <PARAM id="color_c3" value="0.7142857313156128"/>
+    <PARAM id="color_c2" value="1.0"/>
+    <PARAM id="color_c1" value="1.0"/>
+    <PARAM id="color_b8" value="0.4285714328289032"/>
+    <PARAM id="color_b7" value="0.4285714328289032"/>
+    <PARAM id="color_b6" value="0.4285714328289032"/>
+    <PARAM id="color_b5" value="0.4285714328289032"/>
+    <PARAM id="color_b4" value="0.4285714328289032"/>
+    <PARAM id="color_b3" value="0.4285714328289032"/>
+    <PARAM id="color_b2" value="0.4285714328289032"/>
+    <PARAM id="color_a8" value="1.0"/>
+    <PARAM id="color_b1" value="0.4285714328289032"/>
+    <PARAM id="bank" value="1.0"/>
+    <PARAM id="color_a7" value="1.0"/>
+    <PARAM id="color_a6" value="1.0"/>
+    <PARAM id="mode" value="0.0"/>
+    <PARAM id="color_a3" value="0.2857142984867096"/>
+    <PARAM id="color_a2" value="0.1428571492433548"/>
+    <PARAM id="color_a1" value="0.0"/>
+    <PARAM id="color_a4" value="0.2857142984867096"/>
+    <PARAM id="color_a5" value="1.0"/>
+  </GUI>
+  <PARAM id="a1_fade_in"/>
+  <PARAM id="a1_fade_out"/>
+  <PARAM id="a1_loop_mode"/>
+  <PARAM id="a2_fade_in"/>
+  <PARAM id="a2_fade_out"/>
+  <PARAM id="a2_loop_mode"/>
+  <PARAM id="a3_fade_in"/>
+  <PARAM id="a3_fade_out"/>
+  <PARAM id="a3_loop_mode"/>
+  <PARAM id="a4_fade_in"/>
+  <PARAM id="a4_fade_out"/>
+  <PARAM id="a4_loop_mode"/>
+  <PARAM id="a5_fade_in"/>
+  <PARAM id="a5_fade_out"/>
+  <PARAM id="a5_loop_mode"/>
+  <PARAM id="a6_fade_in"/>
+  <PARAM id="a6_fade_out"/>
+  <PARAM id="a6_loop_mode"/>
+  <PARAM id="a7_fade_in"/>
+  <PARAM id="a7_fade_out"/>
+  <PARAM id="a7_loop_mode"/>
+  <PARAM id="a8_fade_in"/>
+  <PARAM id="a8_fade_out"/>
+  <PARAM id="a8_loop_mode"/>
+  <PARAM id="b1_fade_in"/>
+  <PARAM id="b1_fade_out"/>
+  <PARAM id="b1_loop_mode"/>
+  <PARAM id="b2_fade_in"/>
+  <PARAM id="b2_fade_out"/>
+  <PARAM id="b2_loop_mode"/>
+  <PARAM id="b3_fade_in"/>
+  <PARAM id="b3_fade_out"/>
+  <PARAM id="b3_loop_mode"/>
+  <PARAM id="b4_fade_in"/>
+  <PARAM id="b4_fade_out"/>
+  <PARAM id="b4_loop_mode"/>
+  <PARAM id="b5_fade_in"/>
+  <PARAM id="b5_fade_out"/>
+  <PARAM id="b5_loop_mode"/>
+  <PARAM id="b6_fade_in"/>
+  <PARAM id="b6_fade_out"/>
+  <PARAM id="b6_loop_mode"/>
+  <PARAM id="b7_fade_in"/>
+  <PARAM id="b7_fade_out"/>
+  <PARAM id="b7_loop_mode"/>
+  <PARAM id="b8_fade_in"/>
+  <PARAM id="b8_fade_out"/>
+  <PARAM id="b8_loop_mode"/>
+  <PARAM id="c1_fade_in"/>
+  <PARAM id="c1_fade_out"/>
+  <PARAM id="c1_loop_mode"/>
+  <PARAM id="c2_fade_in"/>
+  <PARAM id="c2_fade_out"/>
+  <PARAM id="c2_loop_mode"/>
+  <PARAM id="c3_fade_in"/>
+  <PARAM id="c3_fade_out"/>
+  <PARAM id="c3_loop_mode"/>
+  <PARAM id="c4_fade_in"/>
+  <PARAM id="c4_fade_out"/>
+  <PARAM id="c4_loop_mode"/>
+  <PARAM id="c5_fade_in"/>
+  <PARAM id="c5_fade_out"/>
+  <PARAM id="c5_loop_mode"/>
+  <PARAM id="c6_fade_in"/>
+  <PARAM id="c6_fade_out"/>
+  <PARAM id="c6_loop_mode"/>
+  <PARAM id="c7_fade_in"/>
+  <PARAM id="c7_fade_out"/>
+  <PARAM id="c7_loop_mode"/>
+  <PARAM id="c8_fade_in"/>
+  <PARAM id="c8_fade_out"/>
+  <PARAM id="c8_loop_mode"/>
+  <PARAM id="d1_fade_in"/>
+  <PARAM id="d1_fade_out"/>
+  <PARAM id="d1_loop_mode"/>
+  <PARAM id="d2_fade_in"/>
+  <PARAM id="d2_fade_out"/>
+  <PARAM id="d2_loop_mode"/>
+  <PARAM id="d3_fade_in"/>
+  <PARAM id="d3_fade_out"/>
+  <PARAM id="d3_loop_mode"/>
+  <PARAM id="d4_fade_in"/>
+  <PARAM id="d4_fade_out"/>
+  <PARAM id="d4_loop_mode"/>
+  <PARAM id="d5_fade_in"/>
+  <PARAM id="d5_fade_out"/>
+  <PARAM id="d5_loop_mode"/>
+  <PARAM id="d6_fade_in"/>
+  <PARAM id="d6_fade_out"/>
+  <PARAM id="d6_loop_mode"/>
+  <PARAM id="d7_fade_in"/>
+  <PARAM id="d7_fade_out"/>
+  <PARAM id="d7_loop_mode"/>
+  <PARAM id="d8_fade_in"/>
+  <PARAM id="d8_fade_out"/>
+  <PARAM id="d8_loop_mode"/>
+</com.inphonik.RX1200>
